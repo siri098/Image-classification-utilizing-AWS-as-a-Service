@@ -1,0 +1,5 @@
+REQUEST_QUEUE_NAME = 'cse546-1-requests'
+RESPONSE_QUEUE_NAME = 'cse546-1-responses'
+IMAGES_BUCKET_NAME = 'cse546-1-images'
+LABELS_BUCKET_NAME = 'cse546-1-labels'
+REGION = 'us-east-1'
